@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scrolling for your 'Work' and 'Contact' links */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-[#050505] text-white antialiased;
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}

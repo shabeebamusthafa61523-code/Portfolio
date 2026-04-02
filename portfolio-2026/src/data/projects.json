@@ -1,0 +1,33 @@
+[
+  {
+    "id": "pacha-cart",
+    "title": "Pacha.Cart",
+    "description": "An AI-powered grocery e-commerce ecosystem featuring real-time flash sales, automated replenishment logic, and a high-performance MERN architecture.",
+    "tech": ["MERN Stack", "AI Services", "Razorpay", "Cloudinary", "Framer Motion", "Tailwind CSS"],
+    "category": "Full-Stack / AI-Commerce",
+    "image": "/projects/cart.png",
+    "liveLink": "https://pachacart.vercel.app",
+    "github": "https://github.com/shabeebamusthafa61523-code/e-commerce.git"
+},
+  
+  {
+    "id": "le-tohfa",
+    "title": "Le Tohfa Resort",
+    "description": "An organic luxury farm resort platform featuring a glassmorphic aesthetic, seamless booking management, and integrated secure payments.",
+    "tech": ["MERN Stack", "Razorpay", "Tailwind CSS", "Framer Motion"],
+    "category": "Full-Stack / UI-UX",
+    "image": "/projects/letohfa.png",
+    "liveLink": "https://le-tohfa-farmfinity.vercel.app",
+    "github": "https://github.com/shabeebamusthafa61523-code/Le-Tohfa-farmfinity.git"
+},
+  {
+    "id": "travel-planner",
+    "title": "Nyora Travel Planner",
+    "description": "An AI-powered luxury travel management platform featuring automated itinerary planning, real-time weather integration, and a premium glassmorphic UI.",
+    "tech": ["MongoDB", "Express", "React", "Node.js", "Framer Motion"],
+    "category": "Full-Stack",
+    "image": "/projects/tp.png",
+    "liveLink": "https://travel-planner-pearl-alpha.vercel.app",
+    "github": "https://github.com/shabeebamusthafa61523-code/Travel-planner"
+}
+]
