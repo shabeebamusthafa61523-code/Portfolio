@@ -29,5 +29,25 @@
     "image": "/projects/tp.png",
     "liveLink": "https://travel-planner-pearl-alpha.vercel.app",
     "github": "https://github.com/shabeebamusthafa61523-code/Travel-planner"
-}
+},
+{
+    "id": "sajnas-bakes",
+    "title": "Sajna's Cakes",
+    "description": "A boutique culinary landing page for a home-based bakery, featuring a minimalist aesthetic, high-quality visual storytelling, and a seamless ordering CTA.",
+    "tech": ["React", "Tailwind CSS", "Framer Motion", "Lucide React"],
+    "category": "Frontend / Branding",
+    "image": "/projects/saj.png",
+    "liveLink": "https://cake-boutique-snowy.vercel.app/",
+    "github": "https://github.com/shabeebamusthafa61523-code/cake-boutique.git"
+  },
+  {
+    "id": "kod-brand-ems",
+    "title": "Kod.brand Management System",
+    "description": "A sophisticated staff and student management dashboard designed with a cyber-tech aesthetic, featuring real-time attendance tracking and data reporting.",
+    "tech": ["React", "Tailwind CSS", "Framer Motion", "Lucide React", "REST API"],
+    "category": "Frontend / UI-UX",
+    "image": "/projects/staff.png",
+    "liveLink": "https://staff-log.vercel.app/",
+    "github": "https://github.com/shabeebamusthafa61523-code/STAFF-LOG.git"
+  }
 ]
