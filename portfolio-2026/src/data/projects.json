@@ -1,53 +1,106 @@
 [
   {
     "id": "pacha-cart",
-    "title": "Pacha.Cart",
-    "description": "An AI-powered grocery e-commerce ecosystem featuring real-time flash sales, automated replenishment logic, and a high-performance MERN architecture.",
-    "tech": ["MERN Stack", "AI Services", "Razorpay", "Cloudinary", "Framer Motion", "Tailwind CSS"],
+    "title": "Pacha.Cart Ecosystem",
+    "description": "An AI-powered grocery e-commerce platform featuring real-time flash sales, automated inventory replenishment logic, and high-performance MERN architecture.",
+    "longDescription": "Pacha.Cart is a full-stack e-commerce platform engineered for instant grocery fulfillment. Built with the MERN stack, it features dynamic flash sale triggers, secure Razorpay checkout integration, cloud asset management via Cloudinary, and intelligent automated stock replenishment algorithms to optimize inventory lifecycle.",
+    "features": [
+      "Real-time dynamic pricing & flash sale countdown engine",
+      "Automated stock level replenishment alerts & logic",
+      "Razorpay payment gateway & instant order verification",
+      "Cloudinary image optimization & responsive media delivery",
+      "Framer Motion interactive UI micro-animations"
+    ],
+    "tech": ["MongoDB", "Express.js", "React.js", "Node.js", "Razorpay", "Cloudinary", "Framer Motion", "Tailwind CSS"],
     "category": "Full-Stack / AI-Commerce",
     "image": "/projects/cart.png",
     "liveLink": "https://pachacart.vercel.app",
     "github": "https://github.com/shabeebamusthafa61523-code/e-commerce.git"
-},
-  
+  },
+  {
+    "id": "springs-academy",
+    "title": "Springs Academy Management System",
+    "description": "A comprehensive educational office platform managing student admissions, staff HR directories, automated fee collection ledgers, and course tracking.",
+    "longDescription": "Engineered a full-stack office management platform for educational institutions. Features multi-tiered RBAC (Super Admin, Admin, Employee) with JWT auth, real-time fee collection ledgers, ISO-compliant PDF receipt generation, and Cloudinary document integration.",
+    "features": [
+      "Full-stack architecture for student admissions & staff HR directories",
+      "Automated accounting ledger for fee collections & ISO-compliant PDF receipt generation",
+      "Multi-tiered RBAC (Super Admin, Admin, Employee) with JWT auth & Cloudinary media handling",
+      "Optimized database throughput with Mongoose sparse indexing & collision-free counters"
+    ],
+    "tech": ["React.js", "Node.js", "Express.js", "MongoDB Atlas", "Tailwind CSS", "JWT Auth", "Cloudinary", "jsPDF"],
+    "category": "Full-Stack / Management",
+    "image": "/projects/springs.png",
+    "liveLink": "https://springs-academy-blue.vercel.app",
+    "github": "https://github.com/shabeebamusthafa61523-code"
+  },
+  {
+    "id": "letohfa-booking",
+    "title": "Resort Booking System",
+    "description": "A full-stack resort booking and management platform with calendar availability, dynamic pricing packages, and single-page A4 PDF/PNG invoice generation.",
+    "longDescription": "Developed a resort booking and guest management platform built with React (Vite), Node.js, Express, and MongoDB. Features an interactive calendar timeline, mobile-responsive single-page A4 invoice engine (PDF/PNG), secure JWT authentication, and in-memory fallbacks for offline resilience.",
+    "features": [
+      "Interactive booking calendar & staycation/daycation package pricing engine",
+      "Automated mobile-responsive single-page A4 PDF & PNG invoice engine with download export",
+      "Secure JWT authentication & dynamic pricing algorithms",
+      "In-memory data fallbacks for high uptime & offline resilience"
+    ],
+    "tech": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT Auth", "Tailwind CSS"],
+    "category": "Full-Stack / Booking System",
+    "image": "/projects/letohfabooking.png",
+    "liveLink": "https://le-tohfa-booking.vercel.app",
+    "github": "https://github.com/shabeebamusthafa61523-code"
+  },
   {
     "id": "le-tohfa",
-    "title": "Le Tohfa Resort",
-    "description": "An organic luxury farm resort platform featuring a glassmorphic aesthetic, seamless booking management, and integrated secure payments.",
-    "tech": ["MERN Stack", "Razorpay", "Tailwind CSS", "Framer Motion"],
+    "title": "Le Tohfa Luxury Resort",
+    "description": "An organic luxury farm resort experience featuring glassmorphic aesthetics, real-time suite reservation engine, and integrated payment workflows.",
+    "longDescription": "Le Tohfa Resort is a custom luxury hospitality experience platform crafted for premium eco-tourism. It delivers a fluid glassmorphic design system, an intuitive multi-step booking engine, date-picker availability calendars, and Razorpay transaction processing for effortless guest reservations.",
+    "features": [
+      "Glassmorphic aesthetic & fluid responsive design system",
+      "Real-time room availability & booking reservation flow",
+      "Integrated Razorpay payment gateway for instant deposits",
+      "Custom room showcase gallery with smooth transitions",
+      "Mobile-optimized touch interactions & layout"
+    ],
+    "tech": ["React.js", "Node.js", "Express.js", "MongoDB", "Razorpay", "Tailwind CSS", "Framer Motion"],
     "category": "Full-Stack / UI-UX",
     "image": "/projects/letohfa.png",
     "liveLink": "https://le-tohfa-farmfinity.vercel.app",
     "github": "https://github.com/shabeebamusthafa61523-code/Le-Tohfa-farmfinity.git"
-},
+  },
   {
     "id": "travel-planner",
     "title": "Nyora Travel Planner",
-    "description": "An AI-powered luxury travel management platform featuring automated itinerary planning, real-time weather integration, and a premium glassmorphic UI.",
-    "tech": ["MongoDB", "Express", "React", "Node.js", "Framer Motion"],
-    "category": "Full-Stack",
+    "description": "An AI-powered luxury travel management platform featuring automated itinerary generation, real-time weather integration, and custom travel routing.",
+    "longDescription": "Nyora Travel Planner simplifies complex multi-city vacation planning. By combining AI recommendation algorithms with live weather telemetry, Nyora generates optimized daily itineraries, hotel recommendations, and activity schedules wrapped in a dark-cyber visual aesthetic.",
+    "features": [
+      "Automated AI itinerary generation based on user preferences",
+      "Live weather forecast integration for travel destination insights",
+      "Custom destination bookmarking & itinerary customization",
+      "Dark glassmorphic interface with interactive map previews"
+    ],
+    "tech": ["MongoDB", "Express.js", "React.js", "Node.js", "REST APIs", "Framer Motion", "Tailwind CSS"],
+    "category": "Full-Stack / AI",
     "image": "/projects/tp.png",
     "liveLink": "https://travel-planner-pearl-alpha.vercel.app",
     "github": "https://github.com/shabeebamusthafa61523-code/Travel-planner"
-},
-{
+  },
+  {
     "id": "sajnas-bakes",
-    "title": "Sajna's Cakes",
-    "description": "A boutique culinary landing page for a home-based bakery, featuring a minimalist aesthetic, high-quality visual storytelling, and a seamless ordering CTA.",
-    "tech": ["React", "Tailwind CSS", "Framer Motion", "Lucide React"],
+    "title": "Sajna's Cake Boutique",
+    "description": "A boutique culinary landing page for a home bakery, featuring luxury visual storytelling, animated product showcases, and instant WhatsApp order CTAs.",
+    "longDescription": "A sleek digital showcase designed for a high-end custom cake studio. Built to maximize order conversions through immersive visual storytelling, interactive menu categories, customer testimonials, and direct WhatsApp order dispatch.",
+    "features": [
+      "Interactive cake flavor & design gallery filters",
+      "Direct WhatsApp order integration with pre-filled items",
+      "High-definition lazy-loaded image storytelling",
+      "Ultra-fast page load times and mobile responsive layout"
+    ],
+    "tech": ["React.js", "Tailwind CSS", "Framer Motion", "Lucide Icons"],
     "category": "Frontend / Branding",
     "image": "/projects/saj.png",
     "liveLink": "https://cake-boutique-snowy.vercel.app/",
     "github": "https://github.com/shabeebamusthafa61523-code/cake-boutique.git"
-  },
-  {
-    "id": "kod-brand-ems",
-    "title": "Kod.brand Management System",
-    "description": "A sophisticated staff and student management dashboard designed with a cyber-tech aesthetic, featuring real-time attendance tracking and data reporting.",
-    "tech": ["React", "Tailwind CSS", "Framer Motion", "Lucide React", "REST API"],
-    "category": "Frontend / UI-UX",
-    "image": "/projects/staff.png",
-    "liveLink": "https://staff-log.vercel.app/",
-    "github": "https://github.com/shabeebamusthafa61523-code/STAFF-LOG.git"
   }
 ]
